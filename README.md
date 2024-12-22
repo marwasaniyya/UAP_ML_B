@@ -232,7 +232,7 @@ Dari tabel perbandingan performa model, dapat dilihat bahwa LSTM menunjukkan aku
 
 ## 🔗 Link Live Demo
 Aplikasi web telah di-deploy dan dapat diakses melalui tautan berikut:  
-[Live Demo Aplikasi](https://UAP.streamlit.app/)
+[Live Demo Aplikasi](https://jazp96jj3nhwevewkwy7dr.streamlit.app/)
 
 
 ---
